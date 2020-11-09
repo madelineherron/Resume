@@ -42,11 +42,9 @@ margin-top: 100px;
 }
 
 .jumbotron {
-  background: url("https://lh3.googleusercontent.com/oQBtdG8c1UfGevjlqGWo6HCiBUKeMiLIbk4E4QaZGXt7u7fLPDJTLlqXQe1mOlmetq-iW1xJfKBKIuVhuTQPOdadbbXEH5QsUAUIt8YSDqSt7EMdoH_vtyGOE9oVbe2uqm53htnD=w2400") no-repeat center center;
-  -webkit-background-size: 100% 100%;
-  -moz-background-size: 100% 100%;
-  -o-background-size: 100% 100%;
-  background-size: 50% 50%;
+  background-image: url("https://lh3.googleusercontent.com/oQBtdG8c1UfGevjlqGWo6HCiBUKeMiLIbk4E4QaZGXt7u7fLPDJTLlqXQe1mOlmetq-iW1xJfKBKIuVhuTQPOdadbbXEH5QsUAUIt8YSDqSt7EMdoH_vtyGOE9oVbe2uqm53htnD=w2400") no-repeat center center;
+  background-size: cover;
+  height: 100%;}
 }
 
 .jumbotron h1{
