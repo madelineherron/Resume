@@ -37,6 +37,10 @@ font-weight:400;
   text-align:center;
 }
 
+.jumbotron{
+  background-color: #00cc66;
+}
+
 .menu{
   font-size:1em;
   margin:0;
