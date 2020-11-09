@@ -42,7 +42,11 @@ margin-top: 100px;
 }
 
 .jumbotron {
-  background-color: #33485e;
+  background: url("https://lh3.googleusercontent.com/-eRvQ259WVZPt67AYsDmblX9p-bsJ0Pb7061oIPmAH1j1slIBl6zOWK0ZhbElnXYgiAn9j94YQU8BEXECyO-tRN3bTpd4m-nJGKofy52-Q33wj5fuEpkeK29IrlNez_LKq8kTgwv=w2400") no-repeat center center;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
 }
 
 .menu{
@@ -128,5 +132,5 @@ margin-bottom:0;
 .footer{
   font-weight: bold;
   font-style: italic;
-  font-size: .5;
+  font-size: .5em;
 }
